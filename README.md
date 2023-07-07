@@ -13,4 +13,4 @@ Under server_script
 
 # Depedencies
 
-* (oxmysql)[https://github.com/overextended/oxmysql/releases/tag/]
+* [oxmysql](https://github.com/overextended/oxmysql/releases/tag/)
