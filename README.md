@@ -3,9 +3,9 @@
 Simple Database util for FiveM and RedM based on ghmattimysql and oxmysql
 
 
-## USAGE
+## Usage
 
-Under server_script 
+Under server_script might helps
 
 ```
 '@ghmattisql-oxmysql/lib/MySQL.lua'
