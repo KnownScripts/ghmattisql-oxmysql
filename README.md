@@ -10,3 +10,7 @@ Under server_script
 ```
 '@ghmattisql-oxmysql/lib/MySQL.lua'
 ```
+
+# Depedencies
+
+* (oxmysql)[https://github.com/overextended/oxmysql/releases/tag/]
